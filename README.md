@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Nicetocupro/MyLeetCode/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0207-course-schedule](https://github.com/Nicetocupro/MyLeetCode/tree/main/0207-course-schedule/) | undefined |
 | [0365-water-and-jug-problem](https://github.com/Nicetocupro/MyLeetCode/tree/main/0365-water-and-jug-problem/) | undefined |
+| [1000240-M99OJA](https://github.com/Nicetocupro/MyLeetCode/tree/main/1000240-M99OJA/) | undefined |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
+| [1000240-M99OJA](https://github.com/Nicetocupro/MyLeetCode/tree/main/1000240-M99OJA/) | undefined |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,11 +39,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
 | [0207-course-schedule](https://github.com/Nicetocupro/MyLeetCode/tree/main/0207-course-schedule/) | undefined |
 | [0365-water-and-jug-problem](https://github.com/Nicetocupro/MyLeetCode/tree/main/0365-water-and-jug-problem/) | undefined |
+| [1000240-M99OJA](https://github.com/Nicetocupro/MyLeetCode/tree/main/1000240-M99OJA/) | undefined |
 ## Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Nicetocupro/MyLeetCode/tree/main/0207-course-schedule/) | undefined |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Nicetocupro/MyLeetCode/tree/main/2189-maximum-path-quality-of-a-graph/) | undefined |
+| [1000240-M99OJA](https://github.com/Nicetocupro/MyLeetCode/tree/main/1000240-M99OJA/) | undefined |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
