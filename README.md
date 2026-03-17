@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/Nicetocupro/MyLeetCode/tree/main/0365-water-and-jug-problem/) | undefined |
 | [0679-24-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0679-24-game/) | undefined |
 | [1013-fibonacci-number](https://github.com/Nicetocupro/MyLeetCode/tree/main/1013-fibonacci-number/) | undefined |
+| [100199-recursive-mulitply-lcci](https://github.com/Nicetocupro/MyLeetCode/tree/main/100199-recursive-mulitply-lcci/) | undefined |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1013-fibonacci-number](https://github.com/Nicetocupro/MyLeetCode/tree/main/1013-fibonacci-number/) | undefined |
+| [100199-recursive-mulitply-lcci](https://github.com/Nicetocupro/MyLeetCode/tree/main/100199-recursive-mulitply-lcci/) | undefined |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +206,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nicetocupro/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [100199-recursive-mulitply-lcci](https://github.com/Nicetocupro/MyLeetCode/tree/main/100199-recursive-mulitply-lcci/) | undefined |
 <!---LeetCode Topics End-->
