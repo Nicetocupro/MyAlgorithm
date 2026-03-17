@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Nicetocupro/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
 | [0045-jump-game-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0045-jump-game-ii/) | undefined |
+| [0053-maximum-subarray](https://github.com/Nicetocupro/MyLeetCode/tree/main/0053-maximum-subarray/) | undefined |
 | [0055-jump-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0055-jump-game/) | undefined |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nicetocupro/MyLeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nicetocupro/MyLeetCode/tree/main/0005-longest-palindromic-substring/) | undefined |
 | [0045-jump-game-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0045-jump-game-ii/) | undefined |
+| [0053-maximum-subarray](https://github.com/Nicetocupro/MyLeetCode/tree/main/0053-maximum-subarray/) | undefined |
 | [0055-jump-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0055-jump-game/) | undefined |
 | [0072-edit-distance](https://github.com/Nicetocupro/MyLeetCode/tree/main/0072-edit-distance/) | undefined |
 | [0096-unique-binary-search-trees](https://github.com/Nicetocupro/MyLeetCode/tree/main/0096-unique-binary-search-trees/) | undefined |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nicetocupro/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
+| [0053-maximum-subarray](https://github.com/Nicetocupro/MyLeetCode/tree/main/0053-maximum-subarray/) | undefined |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
