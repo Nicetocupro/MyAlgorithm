@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0055-jump-game/) | undefined |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
 | [0376-wiggle-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0376-wiggle-subsequence/) | undefined |
+| [0435-non-overlapping-intervals](https://github.com/Nicetocupro/MyLeetCode/tree/main/0435-non-overlapping-intervals/) | undefined |
 | [0502-ipo](https://github.com/Nicetocupro/MyLeetCode/tree/main/0502-ipo/) | undefined |
 | [0630-course-schedule-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0630-course-schedule-iii/) | undefined |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0045-jump-game-ii/) | undefined |
 | [0055-jump-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0055-jump-game/) | undefined |
 | [0376-wiggle-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0376-wiggle-subsequence/) | undefined |
+| [0435-non-overlapping-intervals](https://github.com/Nicetocupro/MyLeetCode/tree/main/0435-non-overlapping-intervals/) | undefined |
 | [0502-ipo](https://github.com/Nicetocupro/MyLeetCode/tree/main/0502-ipo/) | undefined |
 | [0630-course-schedule-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0630-course-schedule-iii/) | undefined |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Nicetocupro/MyLeetCode/tree/main/0435-non-overlapping-intervals/) | undefined |
 | [0502-ipo](https://github.com/Nicetocupro/MyLeetCode/tree/main/0502-ipo/) | undefined |
 | [0630-course-schedule-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0630-course-schedule-iii/) | undefined |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
@@ -134,4 +137,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0045-jump-game-ii/) | undefined |
 | [0055-jump-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0055-jump-game/) | undefined |
 | [0376-wiggle-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0376-wiggle-subsequence/) | undefined |
+| [0435-non-overlapping-intervals](https://github.com/Nicetocupro/MyLeetCode/tree/main/0435-non-overlapping-intervals/) | undefined |
 <!---LeetCode Topics End-->
