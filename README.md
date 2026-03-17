@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
+| [0502-ipo](https://github.com/Nicetocupro/MyLeetCode/tree/main/0502-ipo/) | undefined |
 | [0679-24-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0679-24-game/) | undefined |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Nicetocupro/MyLeetCode/tree/main/2189-maximum-path-quality-of-a-graph/) | undefined |
 | [2499-minimum-money-required-before-transactions](https://github.com/Nicetocupro/MyLeetCode/tree/main/2499-minimum-money-required-before-transactions/) | undefined |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0502-ipo](https://github.com/Nicetocupro/MyLeetCode/tree/main/0502-ipo/) | undefined |
 | [2499-minimum-money-required-before-transactions](https://github.com/Nicetocupro/MyLeetCode/tree/main/2499-minimum-money-required-before-transactions/) | undefined |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
 ## Binary Search
@@ -103,6 +105,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0502-ipo](https://github.com/Nicetocupro/MyLeetCode/tree/main/0502-ipo/) | undefined |
 | [2499-minimum-money-required-before-transactions](https://github.com/Nicetocupro/MyLeetCode/tree/main/2499-minimum-money-required-before-transactions/) | undefined |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0502-ipo](https://github.com/Nicetocupro/MyLeetCode/tree/main/0502-ipo/) | undefined |
 <!---LeetCode Topics End-->
