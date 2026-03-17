@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [1000240-M99OJA](https://github.com/Nicetocupro/MyLeetCode/tree/main/1000240-M99OJA/) | undefined |
 ## String
@@ -67,12 +68,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
 | [0679-24-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0679-24-game/) | undefined |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Nicetocupro/MyLeetCode/tree/main/2189-maximum-path-quality-of-a-graph/) | undefined |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
 | [0093-restore-ip-addresses](https://github.com/Nicetocupro/MyLeetCode/tree/main/0093-restore-ip-addresses/) | undefined |
 | [0679-24-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0679-24-game/) | undefined |
@@ -80,5 +83,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
 <!---LeetCode Topics End-->
