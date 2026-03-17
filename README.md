@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
 | [0679-24-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0679-24-game/) | undefined |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nicetocupro/MyLeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | undefined |
+| [1130-last-stone-weight-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/1130-last-stone-weight-ii/) | undefined |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Nicetocupro/MyLeetCode/tree/main/2189-maximum-path-quality-of-a-graph/) | undefined |
 | [2499-minimum-money-required-before-transactions](https://github.com/Nicetocupro/MyLeetCode/tree/main/2499-minimum-money-required-before-transactions/) | undefined |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Nicetocupro/MyLeetCode/tree/main/0435-non-overlapping-intervals/) | undefined |
 | [0516-longest-palindromic-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0516-longest-palindromic-subsequence/) | undefined |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nicetocupro/MyLeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | undefined |
+| [1130-last-stone-weight-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/1130-last-stone-weight-ii/) | undefined |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
