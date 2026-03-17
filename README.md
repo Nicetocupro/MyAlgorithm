@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/Nicetocupro/MyLeetCode/tree/main/0093-restore-ip-addresses/) | undefined |
 | [0214-shortest-palindrome](https://github.com/Nicetocupro/MyLeetCode/tree/main/0214-shortest-palindrome/) | undefined |
 | [0516-longest-palindromic-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0516-longest-palindromic-subsequence/) | undefined |
+| [1250-longest-common-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/1250-longest-common-subsequence/) | undefined |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nicetocupro/MyLeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | undefined |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nicetocupro/MyLeetCode/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
 | [1130-last-stone-weight-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/1130-last-stone-weight-ii/) | undefined |
+| [1250-longest-common-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/1250-longest-common-subsequence/) | undefined |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
