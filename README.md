@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0045-jump-game-ii/) | undefined |
 | [0055-jump-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0055-jump-game/) | undefined |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nicetocupro/MyLeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | undefined |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | undefined |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nicetocupro/MyLeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | undefined |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0055-jump-game/) | undefined |
 | [0072-edit-distance](https://github.com/Nicetocupro/MyLeetCode/tree/main/0072-edit-distance/) | undefined |
 | [0096-unique-binary-search-trees](https://github.com/Nicetocupro/MyLeetCode/tree/main/0096-unique-binary-search-trees/) | undefined |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nicetocupro/MyLeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | undefined |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | undefined |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nicetocupro/MyLeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | undefined |
