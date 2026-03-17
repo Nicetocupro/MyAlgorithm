@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Nicetocupro/MyLeetCode/tree/main/0072-edit-distance/) | undefined |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
 | [0093-restore-ip-addresses](https://github.com/Nicetocupro/MyLeetCode/tree/main/0093-restore-ip-addresses/) | undefined |
+| [0214-shortest-palindrome](https://github.com/Nicetocupro/MyLeetCode/tree/main/0214-shortest-palindrome/) | undefined |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +141,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Nicetocupro/MyLeetCode/tree/main/0072-edit-distance/) | undefined |
 | [0376-wiggle-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0376-wiggle-subsequence/) | undefined |
 | [0435-non-overlapping-intervals](https://github.com/Nicetocupro/MyLeetCode/tree/main/0435-non-overlapping-intervals/) | undefined |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Nicetocupro/MyLeetCode/tree/main/0214-shortest-palindrome/) | undefined |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Nicetocupro/MyLeetCode/tree/main/0214-shortest-palindrome/) | undefined |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Nicetocupro/MyLeetCode/tree/main/0214-shortest-palindrome/) | undefined |
 <!---LeetCode Topics End-->
