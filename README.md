@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | undefined |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nicetocupro/MyLeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
 | [1000240-M99OJA](https://github.com/Nicetocupro/MyLeetCode/tree/main/1000240-M99OJA/) | undefined |
 ## String
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/Nicetocupro/MyLeetCode/tree/main/0093-restore-ip-addresses/) | undefined |
 | [0214-shortest-palindrome](https://github.com/Nicetocupro/MyLeetCode/tree/main/0214-shortest-palindrome/) | undefined |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | undefined |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nicetocupro/MyLeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 | [0516-longest-palindromic-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0516-longest-palindromic-subsequence/) | undefined |
 | [1250-longest-common-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/1250-longest-common-subsequence/) | undefined |
 ## Sliding Window
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | undefined |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nicetocupro/MyLeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
 ## Depth-First Search
 | Problem Name | Difficulty |
