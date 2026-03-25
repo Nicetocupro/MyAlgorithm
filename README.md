@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nicetocupro/MyLeetCode/tree/main/0005-longest-palindromic-substring/) | undefined |
 | [0011-container-with-most-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0011-container-with-most-water/) | undefined |
+| [0042-trapping-rain-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0283-move-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0283-move-zeroes/) | undefined |
 ## Math
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0011-container-with-most-water/) | undefined |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
 | [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
+| [0042-trapping-rain-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0045-jump-game-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0045-jump-game-ii/) | undefined |
 | [0046-permutations](https://github.com/Nicetocupro/MyLeetCode/tree/main/0046-permutations/) | undefined |
 | [0049-group-anagrams](https://github.com/Nicetocupro/MyLeetCode/tree/main/0049-group-anagrams/) | undefined |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
 ## Greedy
 | Problem Name | Difficulty |
@@ -191,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nicetocupro/MyLeetCode/tree/main/0005-longest-palindromic-substring/) | undefined |
+| [0042-trapping-rain-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0045-jump-game-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0045-jump-game-ii/) | undefined |
 | [0053-maximum-subarray](https://github.com/Nicetocupro/MyLeetCode/tree/main/0053-maximum-subarray/) | undefined |
 | [0055-jump-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0055-jump-game/) | undefined |
@@ -268,4 +272,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 <!---LeetCode Topics End-->
