@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nicetocupro/MyLeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0238-product-of-array-except-self](https://github.com/Nicetocupro/MyLeetCode/tree/main/0238-product-of-array-except-self/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0283-move-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0283-move-zeroes/) | undefined |
 | [0312-burst-balloons](https://github.com/Nicetocupro/MyLeetCode/tree/main/0312-burst-balloons/) | undefined |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Nicetocupro/MyLeetCode/tree/main/0238-product-of-array-except-self/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/Nicetocupro/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | undefined |
 ## Monotonic Queue
 | Problem Name | Difficulty |
