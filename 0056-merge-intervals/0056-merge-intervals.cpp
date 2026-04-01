@@ -3,7 +3,7 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         vector<vector<int>> result;
 
-        sort(intervals.begin(), intervals.end(), [](const vector<int> & interval1, const vector<int>& interval2){
+        sort(intervals.begin(), intervals.end(), [](vector<int> & interval1, vector<int>& interval2){
             if(interval1[0] == interval2[0])
             {
                 return interval1[1] < interval2[1];
