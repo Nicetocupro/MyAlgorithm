@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
 | [0041-first-missing-positive](https://github.com/Nicetocupro/MyLeetCode/tree/main/0041-first-missing-positive/) | undefined |
 | [0049-group-anagrams](https://github.com/Nicetocupro/MyLeetCode/tree/main/0049-group-anagrams/) | undefined |
+| [0073-set-matrix-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0076-minimum-window-substring](https://github.com/Nicetocupro/MyLeetCode/tree/main/0076-minimum-window-substring/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Nicetocupro/MyLeetCode/tree/main/0053-maximum-subarray/) | undefined |
 | [0055-jump-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0055-jump-game/) | undefined |
 | [0056-merge-intervals](https://github.com/Nicetocupro/MyLeetCode/tree/main/0056-merge-intervals/) | undefined |
+| [0073-set-matrix-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nicetocupro/MyLeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | undefined |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
+| [0073-set-matrix-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
 ## Stack
 | Problem Name | Difficulty |
