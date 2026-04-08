@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
+| [0206-reverse-linked-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0206-reverse-linked-list/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0206-reverse-linked-list/) | undefined |
 | [1013-fibonacci-number](https://github.com/Nicetocupro/MyLeetCode/tree/main/1013-fibonacci-number/) | undefined |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/1951-find-the-winner-of-the-circular-game/) | undefined |
 | [100199-recursive-mulitply-lcci](https://github.com/Nicetocupro/MyLeetCode/tree/main/100199-recursive-mulitply-lcci/) | undefined |
