@@ -25,7 +25,7 @@ public:
         nodeSum /= 2;
         temp = head;
 
-        for(int i = 0; i <= nodeSum; i++)
+        for(int i = 0; i < nodeSum; i++)
         {
             if(temp->val != myStack.top()->val)
             {
