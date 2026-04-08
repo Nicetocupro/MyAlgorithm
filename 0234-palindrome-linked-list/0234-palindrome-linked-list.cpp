@@ -22,10 +22,10 @@ public:
             nodeSum++;
         }
 
+        nodeSum /= 2;
         temp = head;
-        int step = 0;
-        // 只用校验一半 4 2 5 2
-        while(step != nodeSum / 2)
+
+        for(int i = 0; i <= nodeSum; i++)
         {
             if(temp->val != myStack.top()->val)
             {
@@ -33,7 +33,6 @@ public:
             }
             temp = temp->next;
             myStack.pop();
-            step++;
         }
 
         return true;
