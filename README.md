@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nicetocupro/MyLeetCode/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
+| [0200-number-of-islands](https://github.com/Nicetocupro/MyLeetCode/tree/main/0200-number-of-islands/) | undefined |
 | [0207-course-schedule](https://github.com/Nicetocupro/MyLeetCode/tree/main/0207-course-schedule/) | undefined |
 | [0365-water-and-jug-problem](https://github.com/Nicetocupro/MyLeetCode/tree/main/0365-water-and-jug-problem/) | undefined |
 | [1000240-M99OJA](https://github.com/Nicetocupro/MyLeetCode/tree/main/1000240-M99OJA/) | undefined |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
+| [0200-number-of-islands](https://github.com/Nicetocupro/MyLeetCode/tree/main/0200-number-of-islands/) | undefined |
 | [0207-course-schedule](https://github.com/Nicetocupro/MyLeetCode/tree/main/0207-course-schedule/) | undefined |
 | [0365-water-and-jug-problem](https://github.com/Nicetocupro/MyLeetCode/tree/main/0365-water-and-jug-problem/) | undefined |
 | [1000240-M99OJA](https://github.com/Nicetocupro/MyLeetCode/tree/main/1000240-M99OJA/) | undefined |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nicetocupro/MyLeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | undefined |
+| [0200-number-of-islands](https://github.com/Nicetocupro/MyLeetCode/tree/main/0200-number-of-islands/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0238-product-of-array-except-self](https://github.com/Nicetocupro/MyLeetCode/tree/main/0238-product-of-array-except-self/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
@@ -168,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Nicetocupro/MyLeetCode/tree/main/0048-rotate-image/) | undefined |
 | [0073-set-matrix-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
+| [0200-number-of-islands](https://github.com/Nicetocupro/MyLeetCode/tree/main/0200-number-of-islands/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 ## Stack
 | Problem Name | Difficulty |
@@ -305,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
+| [0200-number-of-islands](https://github.com/Nicetocupro/MyLeetCode/tree/main/0200-number-of-islands/) | undefined |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
