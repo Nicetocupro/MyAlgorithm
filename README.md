@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Nicetocupro/MyLeetCode/tree/main/0096-unique-binary-search-trees/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nicetocupro/MyLeetCode/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nicetocupro/MyLeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | undefined |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Nicetocupro/MyLeetCode/tree/main/0096-unique-binary-search-trees/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nicetocupro/MyLeetCode/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nicetocupro/MyLeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
 | [0200-number-of-islands](https://github.com/Nicetocupro/MyLeetCode/tree/main/0200-number-of-islands/) | undefined |
 | [0207-course-schedule](https://github.com/Nicetocupro/MyLeetCode/tree/main/0207-course-schedule/) | undefined |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nicetocupro/MyLeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | undefined |
 | [0365-water-and-jug-problem](https://github.com/Nicetocupro/MyLeetCode/tree/main/0365-water-and-jug-problem/) | undefined |
 | [1000240-M99OJA](https://github.com/Nicetocupro/MyLeetCode/tree/main/1000240-M99OJA/) | undefined |
 ## Graph
