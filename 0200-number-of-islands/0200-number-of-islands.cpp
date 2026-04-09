@@ -26,15 +26,12 @@ public:
                             myStack.pop();
                             int temp_row = temp_pair.first;
                             int temp_col = temp_pair.second;
-                            std::cout << temp_row << " " << temp_col << std::endl;
                             for(auto it : directions)
                             {
                                 int visited_row = temp_row + it.first;
                                 int visited_col = temp_col + it.second;
                                 if(visited_row >= 0 && visited_row < n && visited_col >= 0 && visited_col < m  && !visited[visited_row][visited_col])
                                 {
-                                    std::cout << visited_row << " " << visited_col << std::endl;
-                                    std::cout << grid[visited_row][visited_col] << std::endl;
                                     if(grid[visited_row][visited_col] == '1')
                                     {
                                         std::cout << "myStack: " << visited_row << " " << visited_col << std::endl;
