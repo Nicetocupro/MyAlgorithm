@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
+| [0148-sort-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0148-sort-list/) | undefined |
 | [0206-reverse-linked-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0206-reverse-linked-list/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0234-palindrome-linked-list/) | undefined |
 ## Two Pointers
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0011-container-with-most-water/) | undefined |
 | [0042-trapping-rain-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
+| [0148-sort-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0148-sort-list/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0234-palindrome-linked-list/) | undefined |
 | [0283-move-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0283-move-zeroes/) | undefined |
 ## Math
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Nicetocupro/MyLeetCode/tree/main/0049-group-anagrams/) | undefined |
 | [0056-merge-intervals](https://github.com/Nicetocupro/MyLeetCode/tree/main/0056-merge-intervals/) | undefined |
+| [0148-sort-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0148-sort-list/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0435-non-overlapping-intervals](https://github.com/Nicetocupro/MyLeetCode/tree/main/0435-non-overlapping-intervals/) | undefined |
 | [0502-ipo](https://github.com/Nicetocupro/MyLeetCode/tree/main/0502-ipo/) | undefined |
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nicetocupro/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0053-maximum-subarray](https://github.com/Nicetocupro/MyLeetCode/tree/main/0053-maximum-subarray/) | undefined |
+| [0148-sort-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0148-sort-list/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | undefined |
@@ -323,4 +327,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0148-sort-list/) | undefined |
 <!---LeetCode Topics End-->
