@@ -34,7 +34,6 @@ public:
                                 {
                                     if(grid[visited_row][visited_col] == '1')
                                     {
-                                        std::cout << "myStack: " << visited_row << " " << visited_col << std::endl;
                                         myStack.push(std::make_pair(visited_row, visited_col));
                                     }
                                     visited[visited_row][visited_col] = true;
