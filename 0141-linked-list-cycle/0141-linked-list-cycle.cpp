@@ -1,3 +1,5 @@
+class Solution {
+public:
 bool hasCycle(ListNode *head) {
     ListNode *slow = head, *fast = head;
     while (fast && fast->next) {
@@ -7,3 +9,4 @@ bool hasCycle(ListNode *head) {
     }
     return false;
 }
+};
