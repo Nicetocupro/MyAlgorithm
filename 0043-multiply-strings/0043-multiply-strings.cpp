@@ -23,7 +23,7 @@ public:
             temp += lastNum;
             lastNum = temp / 10;
             temp = temp % 10;
-            result = std::to_string(temp) + result;
+            result = '0' + temp + result;
             step++;
         }
         if(lastNum)
