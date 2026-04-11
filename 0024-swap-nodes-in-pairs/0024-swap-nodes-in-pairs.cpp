@@ -22,8 +22,6 @@ public:
             slow = slow->next;
             fast = fast->next->next;
 
-            std::cout << slow->val << " " << fast->val << std::endl;
-
             slow->next = fast->next;
             fast->next = slow;
             temp->next = fast;
