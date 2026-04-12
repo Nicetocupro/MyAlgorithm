@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0021-merge-two-sorted-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/Nicetocupro/MyLeetCode/tree/main/0024-swap-nodes-in-pairs/) | undefined |
+| [0025-reverse-nodes-in-k-group](https://github.com/Nicetocupro/MyLeetCode/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
 | [0141-linked-list-cycle](https://github.com/Nicetocupro/MyLeetCode/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0148-sort-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0148-sort-list/) | undefined |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Nicetocupro/MyLeetCode/tree/main/0002-add-two-numbers/) | undefined |
 | [0021-merge-two-sorted-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/Nicetocupro/MyLeetCode/tree/main/0024-swap-nodes-in-pairs/) | undefined |
+| [0025-reverse-nodes-in-k-group](https://github.com/Nicetocupro/MyLeetCode/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
 | [0206-reverse-linked-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0206-reverse-linked-list/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0234-palindrome-linked-list/) | undefined |
 | [1013-fibonacci-number](https://github.com/Nicetocupro/MyLeetCode/tree/main/1013-fibonacci-number/) | undefined |
