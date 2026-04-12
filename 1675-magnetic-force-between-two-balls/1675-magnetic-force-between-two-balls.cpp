@@ -7,7 +7,20 @@ public:
 
         while (lower < high) {
             int mid = lower + (high - lower + 1) / 2;
-            if(canAchieve(position, m, mid))
+
+            int count = 1;
+            int prev = position[0];
+
+            for(int i = 0; i < position.size(); i++)
+            {
+                if(position[i] - prev >= mid)
+                {
+                    count++;
+                    prev = position[i];
+                }
+            }
+
+            if(count >= m)
             {
                 lower = mid;
             }
@@ -18,22 +31,5 @@ public:
         }
 
         return lower;
-    }
-
-private:
-    bool canAchieve(vector<int>& position, int m, int mid) {
-        int count = 1;
-        int prev = position[0];
-
-        for(int i = 1; i < position.size(); i++)
-        {
-            if(position[i] - prev >= mid)
-            {
-                count++;
-                prev = position[i];
-            }
-        }
-
-        return count >= m;
     }
 };
