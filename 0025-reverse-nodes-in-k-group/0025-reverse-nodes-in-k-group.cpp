@@ -11,7 +11,6 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        // 好像不能迭代
         std::stack<ListNode*> myStack;
         ListNode* temp = head;
 
@@ -26,7 +25,7 @@ public:
             temp = temp->next;
         }
 
-        ListNode* nextNode = myStack.top()->next;
+        ListNode* nextNode = temp;
         ListNode dummy(0);
         temp = &dummy;
 
