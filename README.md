@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0076-minimum-window-substring](https://github.com/Nicetocupro/MyLeetCode/tree/main/0076-minimum-window-substring/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
+| [0138-copy-list-with-random-pointer](https://github.com/Nicetocupro/MyLeetCode/tree/main/0138-copy-list-with-random-pointer/) | undefined |
 | [0141-linked-list-cycle](https://github.com/Nicetocupro/MyLeetCode/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | undefined |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/Nicetocupro/MyLeetCode/tree/main/0024-swap-nodes-in-pairs/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nicetocupro/MyLeetCode/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
+| [0138-copy-list-with-random-pointer](https://github.com/Nicetocupro/MyLeetCode/tree/main/0138-copy-list-with-random-pointer/) | undefined |
 | [0141-linked-list-cycle](https://github.com/Nicetocupro/MyLeetCode/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0148-sort-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0148-sort-list/) | undefined |
