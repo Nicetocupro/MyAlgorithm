@@ -2,16 +2,22 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "build and run",
+      "label": "build",
       "type": "shell",
       "command": "g++",
       "args": [
         "-std=c++17",
-        "-D", "LOCAL",
+        "-DLOCAL",
         "-o",
         "${fileDirname}/solution.exe",
         "${file}"
-      ],
+      ]
+    },
+    {
+      "label": "build and run",
+      "type": "shell",
+      "command": "${fileDirname}/solution.exe",
+      "dependsOn": "build",   // 先执行 build
       "group": {
         "kind": "build",
         "isDefault": true
